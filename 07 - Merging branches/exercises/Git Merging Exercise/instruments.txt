@@ -2,3 +2,5 @@ saxophone
 bass
 harmonica
 guitar
+drums
+harp
